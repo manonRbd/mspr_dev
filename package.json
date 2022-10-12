@@ -30,7 +30,7 @@
     "@ionic/pro": "2.0.4",
     "angular-loading-page": "^0.6.0",
     "chart.js": "^2.8.0",
-    "cordova-android": "7.1.4",
+    "cordova-android": "11.0.0",
     "cordova-browser": "6.0.0",
     "cordova-plugin-advanced-http": "2.0.9",
     "cordova-plugin-device": "2.0.2",
